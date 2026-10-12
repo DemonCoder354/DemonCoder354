@@ -28,7 +28,7 @@ I turn spreadsheets, PDFs and on-screen data into clean structured output, then 
 |---|---|
 | [pdf-to-web-form-automation](https://github.com/DemonCoder354/pdf-to-web-form-automation) | Learns fields from one example page, extracts client records from PDFs and types them into a web form (pdfplumber + Playwright). Windows .exe in Releases. |
 | [verdana-energy-landing](https://github.com/DemonCoder354/verdana-energy-landing) | Animated landing page with a savings calculator and SVG scenes. [Live demo](https://demoncoder354.github.io/verdana-energy-landing/) |
-| [project-two](https://github.com/DemonCoder354/project-two) | Arcade company website with 9 pixel-art scenes drawn on canvas. [Live demo](https://demoncoder354.github.io/project-two/) |
+| [neonvault-arcade-site](https://github.com/DemonCoder354/neonvault-arcade-site) | Arcade company website with 9 pixel-art scenes drawn on canvas. [Live demo](https://demoncoder354.github.io/neonvault-arcade-site/) |
 
 ## Languages
 
